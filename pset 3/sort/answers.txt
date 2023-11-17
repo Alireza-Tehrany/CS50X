@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: time in reverse5000 was the highest one.
+
+sort2 uses: Merge Sort
+
+How do you know?:time in reverse5000 was the lowest one.
+
+sort3 uses: Selection Sort
+
+How do you know?:time in reverse5000 was midle of them.

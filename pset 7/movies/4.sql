@@ -1,0 +1,1 @@
+SELECT COUNT(title) FROM movies WHERE id In (SELECT movie_id FROM ratings WHERE rating LIKE "10.0")
